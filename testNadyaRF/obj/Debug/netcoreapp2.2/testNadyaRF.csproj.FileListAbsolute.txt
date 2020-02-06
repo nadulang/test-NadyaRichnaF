@@ -1,0 +1,10 @@
+/Users/gigaming/Projects/testNadyaRF/testNadyaRF/obj/Debug/netcoreapp2.2/testNadyaRF.csprojAssemblyReference.cache
+/Users/gigaming/Projects/testNadyaRF/testNadyaRF/obj/Debug/netcoreapp2.2/testNadyaRF.AssemblyInfoInputs.cache
+/Users/gigaming/Projects/testNadyaRF/testNadyaRF/obj/Debug/netcoreapp2.2/testNadyaRF.AssemblyInfo.cs
+/Users/gigaming/Projects/testNadyaRF/testNadyaRF/bin/Debug/netcoreapp2.2/testNadyaRF.deps.json
+/Users/gigaming/Projects/testNadyaRF/testNadyaRF/bin/Debug/netcoreapp2.2/testNadyaRF.runtimeconfig.json
+/Users/gigaming/Projects/testNadyaRF/testNadyaRF/bin/Debug/netcoreapp2.2/testNadyaRF.runtimeconfig.dev.json
+/Users/gigaming/Projects/testNadyaRF/testNadyaRF/bin/Debug/netcoreapp2.2/testNadyaRF.dll
+/Users/gigaming/Projects/testNadyaRF/testNadyaRF/bin/Debug/netcoreapp2.2/testNadyaRF.pdb
+/Users/gigaming/Projects/testNadyaRF/testNadyaRF/obj/Debug/netcoreapp2.2/testNadyaRF.dll
+/Users/gigaming/Projects/testNadyaRF/testNadyaRF/obj/Debug/netcoreapp2.2/testNadyaRF.pdb
